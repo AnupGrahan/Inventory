@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a conflict file
-=======
-conflict test
-=======
-Hello from anup
->>>>>>> c6026fe51824424d3454acf763215d67da68d531
->>>>>>> f4e84ae2746f77edd18fbad16b0349556733ecb7
+Thiiis...........
