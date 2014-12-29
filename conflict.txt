@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-conflict test
-=======
-Hello from anup
->>>>>>> c6026fe51824424d3454acf763215d67da68d531
+Thiiis...........
